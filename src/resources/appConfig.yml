@@ -1,0 +1,4 @@
+#Service host
+server:
+  port: ":8080"
+  path: "/evaluate"
